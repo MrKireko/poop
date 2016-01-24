@@ -16,7 +16,7 @@ body {
     width:90%;
     max-width: 80em;
     text-align: left;
-    padding: 2%;
+    padding: 1%;
     margin-bottom: 4%;
     transform: translateY(-5px);
     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -24,6 +24,11 @@ body {
     box-sizing: border-box;         /* Opera/IE 8+ */
     border-radius: 1.5px;
     box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.4);
+}
+
+#innerwrap {
+    display: inline-block;
+    margin: 1em;
 }
 
 #picwrap {

@@ -16,7 +16,7 @@ body {
     width:90%;
     max-width: 80em;
     text-align: left;
-    padding: 1%;
+    padding: 0.5%;
     margin-bottom: 4%;
     transform: translateY(-5px);
     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -28,7 +28,7 @@ body {
 
 #innerwrap {
     display: inline-block;
-    margin: 1em;
+    margin: 1.5em;
 }
 
 #picwrap {
